@@ -1,0 +1,14 @@
+
+services:
+
+  student-management:
+
+    build: .
+
+    container_name: student-management-app
+
+    ports:
+      - "8081:80"
+
+    restart: unless-stopped
+
