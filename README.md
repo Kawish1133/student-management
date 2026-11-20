@@ -65,7 +65,7 @@ docker compose up -d --build
 
 Open in browser:
 
-http://localhost:8080
+http://localhost:8081
 
 ## Docker Commands
 
